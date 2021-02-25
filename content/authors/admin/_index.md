@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Thomas F. Müller
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Max Planck Institute for Human Development
+  url: https://www.mpib-berlin.mpg.de/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Language Evolution
+- Cultural Evolution
+- Human Interaction
+- Hybrid Human-Machine Interaction
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Dr. phil. in Psychology
+    institution: Friedrich Schiller University Jena and Max Planck Institute SHH, Jena
+    year: 2021
+  - course: M.Sc. in Cognitive Psychology and Cognitive Neuroscience
+    institution: Friedrich Schiller University Jena
+    year: 2016
+  - course: B.Sc. in Psychology
+    institution: Friedrich Schiller University Jena
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,19 +43,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:mueller@mpib-berlin.mpg.de'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ThomasF_Mueller
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://scholar.google.de/citations?user=E_NxnOcAAAAJ&hl=de&oi=sra
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +65,5 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My main research interests lie in the experimental study of human social interaction and communication, and in the cultural transmission of these behaviors and their outcomes. I make use of artificial language games to study the emergence and evolution of communication, and also study the interactions of humans in constrained, large-scale online environments to learn more about the change and organization of cultural traits. Currently I am extending this approach to study hybrid human-machine interaction in my position at the Center for Humans and Machines at the MPIB.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
